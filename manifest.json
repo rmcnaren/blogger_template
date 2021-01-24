@@ -1,0 +1,57 @@
+
+{
+  "name": "The Hacker News",
+  "short_name": "THN",
+  "description": "Leading Cybersecurity News Site",
+  "lang": "en-US",
+  "display": "standalone",
+  "background_color": "#27468d",
+  "start_url": "/?utm_source=homescreen",
+  "theme_color": "#395697",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s32-e100/thn.jpg",
+      "sizes": "32x32"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s72-e100/thn.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s96-e100/thn.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s128-e100/thn.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s144-e100/thn.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s152-e100/thn.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s192-e100/thn.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s384-e100/thn.png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s512-e100/thn.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://thehackernews.com/images/-rVOVZW3ut4Q/XeZwEXpJ3UI/AAAAAAAA15Q/OPI7hX80GUwaRrTJ7KJtGSd_-rjDaHNVQCLcBGAsYHQ/s1024-e100/thn.png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "serviceworker": {
+    "src": "https://www.dropbox.com/s/4mq83t1z3z2wdo4/sw.js?dl=1"
+  }
+}

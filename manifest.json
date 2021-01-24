@@ -1,8 +1,8 @@
 
 {
-  "name": "The Hacker News",
-  "short_name": "THN",
-  "description": "Leading Cybersecurity News Site",
+  "name": "Blogger Template",
+  "short_name": "BT",
+  "description": "Testing Blogger Template",
   "lang": "en-US",
   "display": "standalone",
   "background_color": "#27468d",

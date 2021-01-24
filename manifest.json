@@ -52,6 +52,6 @@
     }
   ],
   "serviceworker": {
-    "src": "https://www.dropbox.com/s/4mq83t1z3z2wdo4/sw.js?dl=1"
+    "src": "https://raw.githubusercontent.com/rmcnaren/blogger_template/main/sw.js"
   }
 }
